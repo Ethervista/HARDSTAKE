@@ -2,7 +2,8 @@
 
 All about Hardstake
 
-<img width="550" alt="Screenshot 2024-09-19 at 4 01 15 PM" src="https://github.com/user-attachments/assets/d54428f6-803a-4c69-a98c-5e5e226cb87b">
+<img width="739" alt="Screenshot 2024-09-27 at 4 48 23 PM" src="https://github.com/user-attachments/assets/2e07344b-2c0d-4663-840d-f24dcafa7d78">
+
 
 To safely manage LPs and prevent exploits whitin the Euler model, the Ethervista Router introduces three key functions: **updateSelf**,  **safeTransferLp** and **hardstake**.
 
